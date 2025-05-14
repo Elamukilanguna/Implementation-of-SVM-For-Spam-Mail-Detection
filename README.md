@@ -18,8 +18,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: ESWANTH KUMAR K
-RegisterNumber: 212223040046
+Developed by: ELAMUKILAN G
+RegisterNumber: 212223040045
 */
 ```
 ```
